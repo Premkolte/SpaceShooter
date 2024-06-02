@@ -22,7 +22,6 @@ pygame_py_file = os.path.join('spaceshooter', 'spaceShooter.py')
 
 
 
-
 setup(  name = "Space Shooter",
         version = "0.0.2",
         description = "classic retro game made using pygame",

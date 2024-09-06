@@ -74,7 +74,7 @@ Follow the youtube video to see how I fared on ``spaceShooter``
 
 [[Back to top]](https://github.com/tasdikrahman/spaceShooter#index)
 
-### For `Windows`
+### For `Windows` 
 
 - :arrow_down: [Download the prebuilt zip file and unzip it.](https://github.com/tasdikrahman/spaceShooter/releases/latest)
 - Run the executable named `spaceShooter` inside the extracted file.

@@ -70,7 +70,7 @@ Follow the youtube video to see how I fared on ``spaceShooter``
 | Fire bullets | <kbd>spacebar</kbd> |
 | Quit game    | <kbd>Esc</kbd>      |
 
-## Installation
+## Installation 
 
 [[Back to top]](https://github.com/tasdikrahman/spaceShooter#index)
 
